@@ -108,7 +108,7 @@ public class _002_If_Else {
 
         // Ehliyet Kontrolü
         if (adayinSaglikDurumu) {
-             if (adayinYasi >= 18) {
+            if (adayinYasi >= 18) {
                 System.out.println("Aday sağlıklı ve reşit. Ehliyet almaya uygundur.");
             } else if (adayinYasi == 16) {
                 System.out.println("Aday sağlıklı ve stajyer olmaya uygundur.");
@@ -122,3 +122,4 @@ public class _002_If_Else {
 
 
     }
+}
