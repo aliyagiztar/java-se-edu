@@ -12,7 +12,7 @@ public class _001_Metot {
      //   System.out.println("-------------------------");
 
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 5; i++) {
             cizgiCiz();
         }
 
