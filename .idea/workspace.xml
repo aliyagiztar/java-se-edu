@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="">
+    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_005_KararKontrolMekanizmalari/src/main/java/com/mimaraslan/_002_If_Else.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_005_KararKontrolMekanizmalari/src/main/java/com/mimaraslan/_002_If_Else.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,19 +27,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/aliyagiztar/Desktop/workspace/java-se-edu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aliyagiztar/Desktop/workspace/java-se-edu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,12 +49,36 @@
       <option name="presentableId" value="Default" />
       <updated>1700423994661</updated>
       <workItem from="1700423995746" duration="46000" />
-      <workItem from="1700583295224" duration="3021000" />
+      <workItem from="1700583295224" duration="3979000" />
+      <workItem from="1700671044909" duration="597000" />
+      <workItem from="1700892988970" duration="876000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework 2 Done. &quot; If statement fixed &quot;">
+      <option name="closed" value="true" />
+      <created>1700586845442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700586845442</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;">
+      <option name="closed" value="true" />
+      <created>1700586874356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700586874356</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 2 Done. &quot; If statement fixed &quot;" />
+    <MESSAGE value="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
