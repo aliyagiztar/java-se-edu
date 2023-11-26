@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="interface">
+      <change beforePath="$PROJECT_DIR$/java_InterfaceArayuz/com/aliyagiztar/Arac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_InterfaceArayuz/com/aliyagiztar/Otobus.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_InterfaceArayuz/com/aliyagiztar/Otobus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -37,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/aliyagiztar/Desktop/workspace/java-se-edu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aliyagiztar/Desktop/workspace/java-se-edu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +66,7 @@
       <workItem from="1700671044909" duration="597000" />
       <workItem from="1700892988970" duration="876000" />
       <workItem from="1700920752253" duration="10917000" />
+      <workItem from="1701007366777" duration="3379000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 2 Done. &quot; If statement fixed &quot;">
       <option name="closed" value="true" />
@@ -97,7 +100,31 @@
       <option name="project" value="LOCAL" />
       <updated>1700982386237</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lesson 4">
+      <option name="closed" value="true" />
+      <created>1701008874559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701008874559</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lesson 4">
+      <option name="closed" value="true" />
+      <created>1701010954268</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701010954268</updated>
+    </task>
+    <task id="LOCAL-00007" summary="interface">
+      <option name="closed" value="true" />
+      <created>1701011713075</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701011713075</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +133,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework 2 Done. &quot; If statement fixed &quot;" />
     <MESSAGE value="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;" />
+    <MESSAGE value="Lesson 4" />
+    <MESSAGE value="interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
