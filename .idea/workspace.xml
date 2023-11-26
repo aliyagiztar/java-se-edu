@@ -5,6 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CokbicimlilikOrnek/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CokbicimlilikOrnek/Hayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CokbicimlilikOrnek/Kedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CokbicimlilikOrnek/Kopek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CokbicimlilikOrnek/Kus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kompozisyon/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kompozisyon/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kompozisyon/Depo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kompozisyon/Koltuk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kompozisyon/Yakit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/N_Capsulation/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/N_Capsulation/Musteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polformizim/Poliformizim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipDonusumleri/ArrayDiziler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipDonusumleri/TipDonusumleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/Hizmetli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/MirasKaltilim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/Muhasebeci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/Personel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/Yonetici.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java-se-edu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-se-edu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +36,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -27,19 +61,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/aliyagiztar/Desktop/workspace/java-se-edu&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/aliyagiztar/Desktop/workspace/java-se-edu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +87,7 @@
       <workItem from="1700583295224" duration="3979000" />
       <workItem from="1700671044909" duration="597000" />
       <workItem from="1700892988970" duration="876000" />
+      <workItem from="1700920752253" duration="10313000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 2 Done. &quot; If statement fixed &quot;">
       <option name="closed" value="true" />
@@ -69,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700586874356</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework 2 Done. &quot; If statement fixed &quot; &quot;Syntax error fixed&quot;">
+      <option name="closed" value="true" />
+      <created>1700920769559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700920769559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
