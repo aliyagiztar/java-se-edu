@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="interface">
-      <change beforePath="$PROJECT_DIR$/java_InterfaceArayuz/com/aliyagiztar/Arac.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_InterfaceArayuz/com/aliyagiztar/Otobus.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_InterfaceArayuz/com/aliyagiztar/Otobus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/Abstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionsKoleksiyonlarTorbalar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KoleksiyonTorbalarOrnek/Ders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KoleksiyonTorbalarOrnek/Derslik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KoleksiyonTorbalarOrnek/KoleksiyonlarOrnek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KoleksiyonTorbalarOrnek/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KoleksiyonTorbalarOrnek/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KoleksiyonTorbalarOrnek/OrnekKoleksiyonla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,7 +73,10 @@
       <workItem from="1700671044909" duration="597000" />
       <workItem from="1700892988970" duration="876000" />
       <workItem from="1700920752253" duration="10917000" />
-      <workItem from="1701007366777" duration="3379000" />
+      <workItem from="1701007366777" duration="7530000" />
+      <workItem from="1701429246010" duration="772000" />
+      <workItem from="1701540297795" duration="677000" />
+      <workItem from="1701545578377" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 2 Done. &quot; If statement fixed &quot;">
       <option name="closed" value="true" />
@@ -124,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701011713075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="interface">
+      <option name="closed" value="true" />
+      <created>1701011786670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701011786670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
