@@ -7,7 +7,7 @@ package KoleksiyonTorbalarOrnek;
 @NoArgumentucter
 @AllargumentConstructer
 
-public class KoleksiyonlarOrnek {
+public class Koleksiyon {
     public static void main(String[] args) {
 
 
