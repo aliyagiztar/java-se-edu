@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Thread">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1df4496f-db5d-4401-b3dd-414ed9a4684f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1df4496f-db5d-4401-b3dd-414ed9a4684f.xml" afterDir="false" />
+    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="identifier expected err fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KoleksiyonTorbalarOrnek/KoleksiyonlarOrnek.java" beforeDir="false" afterPath="$PROJECT_DIR$/KoleksiyonTorbalarOrnek/Koleksiyon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -60,6 +59,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="KoleksiyonTorbalarOrnek" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Koleksiyon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KoleksiyonTorbalarOrnek.Koleksiyon" />
@@ -99,7 +103,9 @@
       <workItem from="1701545578377" duration="1199000" />
       <workItem from="1701555585071" duration="624000" />
       <workItem from="1701626427054" duration="1016000" />
-      <workItem from="1701809105731" duration="134000" />
+      <workItem from="1701809105731" duration="850000" />
+      <workItem from="1702104826388" duration="192000" />
+      <workItem from="1702137969411" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 2 Done. &quot; If statement fixed &quot;">
       <option name="closed" value="true" />
@@ -189,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701638006467</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="identifier expected err fixed">
+      <option name="closed" value="true" />
+      <created>1701809356709</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701809356709</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +215,8 @@
     <MESSAGE value="Lesson 4" />
     <MESSAGE value="interface" />
     <MESSAGE value="Thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread" />
+    <MESSAGE value="identifier expected err fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="identifier expected err fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
