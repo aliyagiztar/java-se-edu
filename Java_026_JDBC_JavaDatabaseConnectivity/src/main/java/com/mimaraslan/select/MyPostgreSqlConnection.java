@@ -2,7 +2,7 @@ package com.mimaraslan.select;
 
 import java.sql.*;
 
-public class MySqlConnection {
+public class MyPostgreSqlConnection {
 
     public static void main(String[] args) {
 
@@ -11,21 +11,29 @@ public class MySqlConnection {
         ResultSet resultSet = null;
 
         try {
-            //  Class.forName("com.mysql.jdbc.Driver");
-            //  Class.forName("com.mysql.cj.jdbc.Driver");
+            //  Class.forName("org.postgresql.Driver");
+
             connection = DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/companydb",
-                    "root",
+                    "jdbc:postgresql://127.0.0.1:5432/postgres",
+                    "postgres",
                     "123456789"
             );
 
             statement = connection.createStatement();
-            resultSet = statement.executeQuery("SELECT * FROM customers");
+            //  resultSet = statement.executeQuery("SELECT * FROM musteriler WHERE bilet_no > '150' ");
+
+            String sql1 = "SELECT * FROM musteriler WHERE adi = 'Banu' ";
+            String sql2 = "SELECT * FROM musteriler WHERE bilet_no > '150' ";
+
+
+            resultSet = statement.executeQuery(sql1);
 
             while (resultSet.next()) {
-                System.out.println(resultSet.getInt("customer_id") + " " +
-                        resultSet.getString("first_name") + " " +
-                        resultSet.getString("last_name"));
+                System.out.println(resultSet.getInt("id") + " " +
+                        resultSet.getString("adi") + " " +
+                        resultSet.getString("soyadi") + " " +
+                        resultSet.getString("bilet_no") + " " +
+                        resultSet.getString("sehir") );
             }
 
         } catch (SQLException e) {
