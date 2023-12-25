@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Veritabani islemleri.">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1df4496f-db5d-4401-b3dd-414ed9a4684f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1df4496f-db5d-4401-b3dd-414ed9a4684f.xml" afterDir="false" />
+    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Fixing JAVA education foldelders also trying to get all those things.">
+      <change afterPath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/aliyagiztar/Insan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java-se-edu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-se-edu.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/mimaraslan/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/aliyagiztar/AppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/mimaraslan/Insan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/aliyagiztar/Insan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/aliyagiztar/Insan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/aliyagiztar/Insan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/mimaraslan/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/aliyagiztar/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/mimaraslan/Degiskenler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/aliyagiztar/Degiskenler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/mimaraslan/Insan.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -116,7 +117,7 @@
       <workItem from="1702828390325" duration="605000" />
       <workItem from="1703340189004" duration="2936000" />
       <workItem from="1703359714230" duration="614000" />
-      <workItem from="1703454897849" duration="1022000" />
+      <workItem from="1703454897849" duration="2084000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 2 Done. &quot; If statement fixed &quot;">
       <option name="closed" value="true" />
@@ -222,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702138102425</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Fixing JAVA education foldelders also trying to get all those things.">
+      <option name="closed" value="true" />
+      <created>1703463763294</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703463763294</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +245,8 @@
     <MESSAGE value="Thread" />
     <MESSAGE value="identifier expected err fixed" />
     <MESSAGE value="Veritabani islemleri." />
-    <option name="LAST_COMMIT_MESSAGE" value="Veritabani islemleri." />
+    <MESSAGE value="Fixing JAVA education foldelders also trying to get all those things." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing JAVA education foldelders also trying to get all those things." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

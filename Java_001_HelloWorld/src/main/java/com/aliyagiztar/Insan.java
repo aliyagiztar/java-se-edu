@@ -31,4 +31,6 @@ public class Insan {
 
     // Additional methods to interact with the Insan class can also be added.
     // Insan sınıfıyla etkileşim kurmak için ek metodlar da eklenebilir.
+
+    // Getter and Setter important lecture study note
 }
