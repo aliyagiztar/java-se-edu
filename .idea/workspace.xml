@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="identifier expected err fixed">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Veritabani islemleri.">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1df4496f-db5d-4401-b3dd-414ed9a4684f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1df4496f-db5d-4401-b3dd-414ed9a4684f.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/mimaraslan/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/aliyagiztar/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/mimaraslan/Insan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/aliyagiztar/Insan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/aliyagiztar/Desktop/workspace/java-se-edu&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/aliyagiztar/Desktop/workspace/java-se-edu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "mysql",
+      "sqlite"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="KoleksiyonTorbalarOrnek" />
@@ -106,6 +112,11 @@
       <workItem from="1701809105731" duration="850000" />
       <workItem from="1702104826388" duration="192000" />
       <workItem from="1702137969411" duration="5000" />
+      <workItem from="1702137977410" duration="1323000" />
+      <workItem from="1702828390325" duration="605000" />
+      <workItem from="1703340189004" duration="2936000" />
+      <workItem from="1703359714230" duration="614000" />
+      <workItem from="1703454897849" duration="1022000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 2 Done. &quot; If statement fixed &quot;">
       <option name="closed" value="true" />
@@ -203,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701809356709</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Veritabani islemleri.">
+      <option name="closed" value="true" />
+      <created>1702138102425</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702138102425</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +235,8 @@
     <MESSAGE value="interface" />
     <MESSAGE value="Thread" />
     <MESSAGE value="identifier expected err fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="identifier expected err fixed" />
+    <MESSAGE value="Veritabani islemleri." />
+    <option name="LAST_COMMIT_MESSAGE" value="Veritabani islemleri." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
