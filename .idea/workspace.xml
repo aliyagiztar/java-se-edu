@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Fixing JAVA education foldelders also trying to get all those things.">
-      <change afterPath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/aliyagiztar/Insan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-se-edu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-se-edu.iml" afterDir="false" />
+    <list default="true" id="12c5fedd-6b74-4d0e-a06c-9f04a067dd56" name="Changes" comment="Improving the structure of the JAVA education folders while also attempting to gather all related materials.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/aliyagiztar/Insan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_001_HelloWorld/src/main/java/com/aliyagiztar/Insan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/mimaraslan/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/aliyagiztar/AppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/mimaraslan/Degiskenler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/aliyagiztar/Degiskenler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_002_Degiskenler/src/main/java/com/mimaraslan/Insan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_003_Operatorler/src/main/java/com/mimaraslan/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_003_Operatorler/src/main/java/com/aliyagiztar/AppMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,27 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/aliyagiztar/Desktop/workspace/java-se-edu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aliyagiztar/Desktop/workspace/java-se-edu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql",
-      "mysql",
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;,
+      &quot;mysql&quot;,
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="KoleksiyonTorbalarOrnek" />
@@ -117,7 +112,8 @@
       <workItem from="1702828390325" duration="605000" />
       <workItem from="1703340189004" duration="2936000" />
       <workItem from="1703359714230" duration="614000" />
-      <workItem from="1703454897849" duration="2084000" />
+      <workItem from="1703454897849" duration="2765000" />
+      <workItem from="1703764348306" duration="2958000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 2 Done. &quot; If statement fixed &quot;">
       <option name="closed" value="true" />
@@ -231,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703463763294</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Improving the structure of the JAVA education folders while also attempting to gather all related materials.">
+      <option name="closed" value="true" />
+      <created>1703464847849</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703464847849</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +250,8 @@
     <MESSAGE value="identifier expected err fixed" />
     <MESSAGE value="Veritabani islemleri." />
     <MESSAGE value="Fixing JAVA education foldelders also trying to get all those things." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing JAVA education foldelders also trying to get all those things." />
+    <MESSAGE value="Improving the structure of the JAVA education folders while also attempting to gather all related materials." />
+    <option name="LAST_COMMIT_MESSAGE" value="Improving the structure of the JAVA education folders while also attempting to gather all related materials." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
