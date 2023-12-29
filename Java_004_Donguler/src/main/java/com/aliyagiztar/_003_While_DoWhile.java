@@ -1,4 +1,4 @@
-package com.mimaraslan;
+package com.aliyagiztar;
 
 public class _003_While_DoWhile {
 	
