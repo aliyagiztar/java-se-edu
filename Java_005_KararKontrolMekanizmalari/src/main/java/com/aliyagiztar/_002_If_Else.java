@@ -1,4 +1,4 @@
-package com.mimaraslan;
+package com.aliyagiztar;
 
 import java.util.Scanner;
 
