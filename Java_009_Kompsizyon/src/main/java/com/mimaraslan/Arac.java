@@ -15,7 +15,7 @@ public class Arac {
   public void hareketEt(){
 
       if(yakit.yakitDurumuKontrol()) {
-          System.out.println("Harekete geçildi.");
+          System.out.println("Harekete geçildi.We started to move");
       } else {
           System.out.println("Yakıt yok.");
       }
