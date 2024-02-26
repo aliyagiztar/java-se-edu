@@ -51,6 +51,9 @@ spring:
       name: buyer-service
     sender:
       type: web
+  sleuth:
+    sampler:
+      probability: 1.0
   datasource:
     url: jdbc:postgresql://localhost:5432/Micro_BuyerServiceDB   # PostgreSQL veritabanı URL'si
     username: postgres                                    # Veritabanı kullanıcı adı

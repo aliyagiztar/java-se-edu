@@ -41,7 +41,6 @@
 server:
   port: 9092
 
-##### database #####
 spring:
   zipkin:
     enabled: true
@@ -50,13 +49,15 @@ spring:
       name: agent-service
     sender:
       type: web
+  sleuth:
+    sampler:
+      probability: 1.0
   datasource:
     url: jdbc:mysql://localhost:3306/micro_agentservicedb   # MySQL veritabanı URL'si
     username: root                                    # Veritabanı kullanıcı adı
     password: 123456789                                  # Veritabanı şifresi
     driver-class-name: com.mysql.cj.jdbc.Driver            # MySQL JDBC sürücüsü
-
-
+  
   #    url: jdbc:postgresql://localhost:5432/Micro_AgentServiceDB   # PostgreSQL veritabanı URL'si
   #    username: postgres                                    # Veritabanı kullanıcı adı
   #    password: 123456789                                  # Veritabanı şifresi
